@@ -142,14 +142,6 @@ p { max-width: 62ch; }
   white-space: nowrap;
 }
 
-.logo-word .logo-i {
-  display: inline-block;
-  width: 1px;
-  height: 0.78em;
-  background: currentColor;
-  margin: 0 0.26em;
-}
-
 .logo-rule {
   display: block;
   width: 100%;
